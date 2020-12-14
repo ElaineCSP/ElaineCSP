@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+! [LinkedIn]&nbsp;(https://www.linkedin.com/in/elainepaiva/)
+
 <!--
 **ElaineCSP/ElaineCSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
