@@ -5,7 +5,7 @@
 <p>:mortar_board: Formada em Análise e Desenvolvimento de Sistemas - Faculdade Impacta de Tecnologia </p>
 
 <p>Ex aluna do Bootcamp da Generation Brasil - Desenvolvodedora Full Stack Java Jr.</p>
-<p>Durante o periodo de 3 meses, desenvolvi alguns projetos utilizando Java ☕, Spring Boot 🍃, MYSQL Workbench🐬, Angular 🅰️ e Docker 🐳.</p>
+<p>Durante o periodo de 3 meses, desenvolvi alguns projetos utilizando Java ☕, Spring Boot 🍃, MySQL Workbench🐬, Angular 🅰️ e Docker 🐳.</p>
 
 <p>Continuo desenvolvendo meus aprendizados através de novos projetos que você pode acompanhar aqui pelo Github :octocat:</p>
 
