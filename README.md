@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<p>Elaine Paiva :information_desk_person: :computer:</p>
+### Elaine Paiva :information_desk_person: :computer: 👋
 
 <p>:mortar_board: Formada em Análise e Desenvolvimento de Sistemas - Faculdade Impacta de Tecnologia </p>
 
