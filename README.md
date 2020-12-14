@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-Elaine Paiva :information_desk_person: :computer:
-Formada em Análise e Desenvolvimento de Sistemas - Faculdade Impacta de Tecnologia :mortar_board:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/elainepaiva/)
+<p>Elaine Paiva :information_desk_person: :computer:</p>
+
+<p>Formada em Análise e Desenvolvimento de Sistemas - Faculdade Impacta de Tecnologia :mortar_board:</p>
+
+<p>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/elainepaiva/)</p>
 
 
 <!--
